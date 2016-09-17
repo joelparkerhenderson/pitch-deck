@@ -42,7 +42,7 @@
 
 ## Slide 6: Validation
 
-* Talk about any proof you have that validates that your solution works to solve the problem you have identified. 
+* Talk about any proof you have that validates your problem, target, solution, and revenue.
 * What have you achieved, such as milestones or goals?
 * What are your next steps to validate your plan?
 * Investors want to see proof points because these reduce risk. 
@@ -50,10 +50,10 @@
 
 ## Slide 7: Marketing
 
-* Talk about how you plan to get customers’ attention,
+* Talk about how you plan to get customers’ attention.
 * Show you have a solid grasp of how you will reach your target market and what sales channels you plan on using.
 * Investors know finding and winning customers can sometimes be the biggest challenge for a startup.
-* If your sales and marketing is different than your competitors, then it’s important to highlight the differences here.
+* If your sales and marketing is different than your competitors, then highlight the differences.
 
 
 ## Slide 8: Team
@@ -61,7 +61,7 @@
 * Talk about your team.
 * Why are these the right people to build this company?
 * What experience do you have that others don’t? 
-* Highlight the key team members, their previous accomplishments, and the key expertise that they bring to the table.
+* Highlight the key team members, their previous accomplishments, and key expertise they bring to the table.
 * If you don’t have a complete team yet, then identify the key positions that you still need to fill, and also why those positions are critical to company growth.
 
 
