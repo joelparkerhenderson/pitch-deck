@@ -1,4 +1,4 @@
-# Pitch Deck Quick Stat
+# Pitch Deck Quick Start
 
 
 A pitch deck (or slide deck) is a business slideshow presentation:
