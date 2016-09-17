@@ -1,6 +1,13 @@
 # Pitch Deck Quick Stat
 
 
+A pitch deck (or slide deck) is a business slideshow presentation:
+
+  * Summarizes the business idea and business model of a startup company. 
+  * Often requested by investors prior to a company’s pitch presentation.
+  * A carefully crafted pitch deck is a fundraising fundamental.
+
+
 ## Slide 1: Vision
 
 * One sentence overview of your business.
@@ -97,3 +104,18 @@
 * For example do you have any key intellectual property licensing partnership?
 * Do you have any key distribution partnerships?
 * How does your success rely on these types of partnerships?
+
+
+## Links to more
+
+* https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/
+* http://www.garage.com/files/PerfectingYourPitch.pdf
+
+## Thanks
+
+* Wikipedia
+* MarsDD
+* Garage
+* Menlo Ventures
+* Fred Wilson
+
