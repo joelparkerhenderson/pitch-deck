@@ -91,19 +91,19 @@ A pitch deck (or slide deck) is a business slideshow presentation:
 * Is there any "secret sauce" that you have and others don’t?
 
 
-## Slide 11: Investment and use of funds
-
-* Ask for the money. 
-* Why do you need the amount of money you are requesting?
-* What is your plan for using the money?
-
-
-## Slide 12: Partnerships
+## Slide 11: Partnerships
 
 * Talk about any strategic partnerships that are critical to success. 
 * For example do you have any key intellectual property licensing partnership?
 * Do you have any key distribution partnerships?
 * How does your success rely on these types of partnerships?
+
+
+## Slide 12: Investment
+
+* Ask for the money. 
+* Why do you need the amount of money you are requesting?
+* What is your plan for using the money?
 
 
 ## Links to more
