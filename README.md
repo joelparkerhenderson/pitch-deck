@@ -105,17 +105,34 @@ A pitch deck (or slide deck) is a business slideshow presentation:
 * Do you have any key distribution partnerships?
 * How does your success rely on these types of partnerships?
 
+## Twine alternative
+
+The company Twine has shared its pitch deck slide goals. Twine has a supply side and a demand side.
+
+1. Opportunity – What big market changes are happening? Why is now the time for your startup matters?
+2. Problem - Demand-side – The problem companies have, our demand-side customer.
+3. Problem - Supply-side – The problem creatives have, our supply-side customer.
+4. Solution – How we solve this.
+5. Solution – A bit more detail on our solution.
+6. Stats – Supply-side – giving validation of why we matter.
+7. Stats – Demand-side – our current focus.
+8. Business model – Simply how we will monetize.
+9. Route to market – High-level growth plans, more detail given in the appendix.
+10. Team – Some validation on why we are the team that can pull this off.
+11. Appendix – more specific details on financials, projections, competition and route to market.
+
 
 ## Links to more
 
 * https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/
 * http://www.garage.com/files/PerfectingYourPitch.pdf
+* https://www.twine.fm/blog/pitch-deck-used-to-raise-a-million/
 
 ## Thanks
 
 * Wikipedia
 * MarsDD
 * Garage
-* Menlo Ventures
-* Fred Wilson
-
+* Shawn Carolan and Menlo Ventures
+* Fred Wilson and AVC
+* Stuart Logan and Twine
