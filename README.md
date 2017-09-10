@@ -28,6 +28,7 @@ A pitch deck (or slide deck) is a business slideshow presentation:
 * Who are they?
 * What do they need?
 * Where are they?
+* When do they need your idea?
 * How many are there?
 * Why are they your target users?
 
@@ -98,6 +99,31 @@ A pitch deck (or slide deck) is a business slideshow presentation:
 * Do you have any key distribution partnerships?
 * How does your success rely on these types of partnerships?
 
+
+## Slide 12: Investment
+
+* Ask for the money. 
+* Why do you need the amount of money you are requesting?
+* What is your plan for using the money?
+
+
+## SixArm.com top six questions
+
+SixArm.com publishes the top six questions to answer immediately:
+
+1. Vision: Can you write a simple sentence summary of your idea and its value?
+
+2. Reason: What broad problem are you solving? What's a specific relatable example?
+
+3. People: Who are you focusing on helping? How do you reach them?
+
+4. Context: how does your idea fit among any related ideas, products, services, etc.?
+
+5. Proof: how do you demonstrate that your idea is worthwhile to try?
+
+6. Needs: What do you need to succeed, such as teammates, partnerships, investments, etc.?
+
+
 ## Twine alternative
 
 The company Twine has shared its pitch deck slide goals. Twine has a supply side and a demand side.
@@ -113,13 +139,6 @@ The company Twine has shared its pitch deck slide goals. Twine has a supply side
 9. Route to market – High-level growth plans, more detail given in the appendix.
 10. Team – Some validation on why we are the team that can pull this off.
 11. Appendix – more specific details on financials, projections, competition and route to market.
-
-
-## Slide 12: Investment
-
-* Ask for the money. 
-* Why do you need the amount of money you are requesting?
-* What is your plan for using the money?
 
 
 ## Links to more
