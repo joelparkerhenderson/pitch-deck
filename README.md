@@ -8,6 +8,25 @@ A pitch deck (or slide deck) is a business slideshow presentation:
   * A carefully crafted pitch deck is a fundraising fundamental.
 
 
+## SixArm.com six slide pitch deck
+
+The SixArm.com pitch deck is suitable for a quick start. 
+
+1. Vision: Can you write a simple summary of your idea and its value?
+
+2. Reason: What broad problem are you solving? What's a specific relatable example?
+
+3. People: Who are you focusing on helping? How do you reach them?
+
+4. Context: how does your idea fit among any related ideas, products, services, etc.?
+
+5. Proof: how do you demonstrate that your idea is worthwhile to try?
+
+6. Needs: What do you need to succeed, such as teammates, partnerships, investments, etc.?
+
+Now use the SixArm.com six slide pitch deck to expand your ideads into a formal investor pitch deck, described next.
+
+
 ## Slide 1: Vision
 
 * One sentence overview of your business.
@@ -107,26 +126,9 @@ A pitch deck (or slide deck) is a business slideshow presentation:
 * What is your plan for using the money?
 
 
-## SixArm.com top six questions
+## Twine.com alternative
 
-SixArm.com publishes the top six questions to answer immediately:
-
-1. Vision: Can you write a simple sentence summary of your idea and its value?
-
-2. Reason: What broad problem are you solving? What's a specific relatable example?
-
-3. People: Who are you focusing on helping? How do you reach them?
-
-4. Context: how does your idea fit among any related ideas, products, services, etc.?
-
-5. Proof: how do you demonstrate that your idea is worthwhile to try?
-
-6. Needs: What do you need to succeed, such as teammates, partnerships, investments, etc.?
-
-
-## Twine alternative
-
-The company Twine has shared its pitch deck slide goals. Twine has a supply side and a demand side.
+Twine.com has shared its pitch deck slide goals. Twine has a supply side and a demand side.
 
 1. Opportunity – What big market changes are happening? Why is now the time for your startup matters?
 2. Problem - Demand-side – The problem companies have, our demand-side customer.
@@ -139,6 +141,34 @@ The company Twine has shared its pitch deck slide goals. Twine has a supply side
 9. Route to market – High-level growth plans, more detail given in the appendix.
 10. Team – Some validation on why we are the team that can pull this off.
 11. Appendix – more specific details on financials, projections, competition and route to market.
+
+
+## YCombinator advice
+
+Ensure your pitch deck lines up with "The Pocket Guide of Essential YC Advice".
+
+* Launch now
+* Build something people want
+* Do things that don’t scale
+* Find the 90 / 10 solution
+* Find 10-100 customers who love your product
+* All startups are badly broken at some point
+* Write code – talk to users
+* “It’s not your money”
+* Growth is the result of a great product not the precursor
+* Don’t scale your team/product until you have built something people want
+* Valuation is not equal to success or even probability of success
+* Avoid long negotiated deals with big customers if you can
+* Avoid big company corporate development queries – they will only waste time
+* Avoid conferences unless they are the best way to get customers
+* Pre-product market fit – do things that don’t scale: remain small/nimble
+* Startups can only solve one problem well at any given time
+* Founder relationships matter more than you think
+* Sometimes you need to fire your customers (they might be killing you)
+* Ignore your competitors, you will more likely die of suicide than murder
+* Most companies don’t die because they run out of money
+* Be nice! Or at least don’t be a jerk
+* Get sleep and exercise – take care of yourself
 
 
 ## Links to more
