@@ -159,20 +159,20 @@ Use this narrative arc:
 
 1. The world is a certain way
 
-  * Outline your background and the current state of the market
-  * How you were introduced to the problem, and why you are an expert
-  * The order of magnitude of the problem today (it should be big!)
+    * Outline your background and the current state of the market
+    * How you were introduced to the problem, and why you are an expert
+    * The order of magnitude of the problem today (it should be big!)
 
 2. Something changes
 
-  * Your solution to the problem
-  * Why now is the ideal time for it
+    * Your solution to the problem
+    * Why now is the ideal time for it
 
 3. The world is now different
 
-  * How your solution is changing the world
-  * Product traction (especially metrics / milestone focused traction)
-  * The future opportunity (or why your traction will continue and make you big!)
+    * How your solution is changing the world
+    * Product traction (especially metrics / milestone focused traction)
+    * The future opportunity (or why your traction will continue and make you big!)
 
 How do you know your narrative is good?
 
