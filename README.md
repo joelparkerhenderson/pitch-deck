@@ -1,47 +1,78 @@
 # Pitch Deck Quick Start
 
+Contents:
+* <a href="#what-is-a-pitch-deck-aka-slide-deck">What is a pitch deck a.k.a. slide deck?</a>
+* <a href="#sixarm-6-slide-pitch-deck">SixArm.com 6-slide pitch deck</a>a>
+* <a href="#formal-12-slide-pitch-deck">Formal 12-slide pitch deck</a>a>
+* <a href="#twine-11-slide-alertnative">Twine.com 11-slide alternative</a></h2>
+* <a href="#atrium-guide">Atrium guide</a>
+* <a href="#ycombinator-advice">YCombinator advice</a>
+* <a href="#links-to-more">Links to more</a>
+* <a href="#thanks">Thanks</a>
 
-A pitch deck (or slide deck) is a business slideshow presentation:
+
+<h2><a name="what-is-a-pitch-deck-aka-slide-deck">What is a pitch deck a.k.a. slide deck?</a></h2>
+
+A pitch deck (also known as a slide deck) is a business slideshow presentation:
 
   * Summarizes the business idea and business model of a startup company. 
   * Often requested by investors prior to a company’s pitch presentation.
   * A carefully crafted pitch deck is a fundraising fundamental.
 
 
-## SixArm.com six slide pitch deck
+<h2><a name="sixarm-6-slide-pitch-deck">SixArm.com 6-slide pitch deck</a></h2>
 
-The SixArm.com pitch deck is suitable for a quick start. 
-
-1. Vision: Can you write a simple summary of your idea and its value?
-
-2. Reason: What broad problem are you solving? What's a specific relatable example?
-
-3. People: Who are you focusing on helping? How do you reach them?
-
-4. Context: how does your idea fit among any related ideas, products, services, etc.?
-
-5. Proof: how do you demonstrate that your idea is worthwhile to try?
-
-6. Needs: What do you need to succeed, such as teammates, partnerships, investments, etc.?
-
-Now use the SixArm.com six slide pitch deck to expand your ideads into a formal investor pitch deck, described next.
+The SixArm.com pitch deck is a quick start. When you create the pitch deck, you can use it as a start to expand your deck into a formal investor pitch deck (described in the next section).
 
 
-## Slide 1: Vision
+<h3>Slide 1: Vision</h3>
+
+Can you write a simple summary of your idea and it's value to the user?
+
+
+<h3>Slide 2: Reason</h3>
+
+What broad problem are you solving, and what's a specific relatable example?
+
+
+<h3>Slide 3: People</h3>
+
+Who are you focusing on helping, and how do you reach them?
+
+
+<h3>Slide 4: Context</h3>
+
+How does your idea fit among any related ideas, products, services, etc.?
+
+
+<h3>Slide 5: Proof</h3>
+
+How do you demonstrate that your idea is worthwhile to try?
+
+
+<h3>Slide 6: Needs</h3>
+
+What do you need to succeed, such as teammates, partnerships, investments, etc.?
+
+
+<h2><a name="formal-12-slide-pitch-deck">Formal 12-slide pitch deck</a></h2>
+
+
+<h3>Slide 1: Vision</h3>
 
 * One sentence overview of your business.
 * Emphasize the value that your business provides. 
 * Keep it short and simple. 
 
 
-## Slide 2: Problem
+<h3>Slide 2: Problem</h3>
 
 * Talk about the problem you are solving.
 * Tell a relatable story when you are defining the problem. 
 * The more you can make the problem as real as possible, the more your investors will understand your business and your goals.
 
 
-## Slide 3: Target
+<h3>Slide 3: Target</h3>
 
 * Talk about your ideal users.
 * Who are they?
@@ -52,14 +83,14 @@ Now use the SixArm.com six slide pitch deck to expand your ideads into a formal 
 * Why are they your target users?
 
 
-## Slide 4: Solution
+<h3>Slide 4: Solution</h3>
 
 * Describe how customers use your product/service.
 * How does it address the problem that you presented on slide 2?
 * Use pictures and stories when you describe your solution. 
 
 
-## Slide 5: Revenue
+<h3>Slide 5: Revenue</h3>
 
 * What do you charge?
 * Who pays the bills?
@@ -67,7 +98,7 @@ Now use the SixArm.com six slide pitch deck to expand your ideads into a formal 
 * How does your pricing fit into the larger market?
 
 
-## Slide 6: Validation
+<h3>Slide 6: Validation</h3>
 
 * Talk about any proof you have that validates your problem, target, solution, and revenue.
 * What have you achieved, such as milestones or goals?
@@ -75,7 +106,7 @@ Now use the SixArm.com six slide pitch deck to expand your ideads into a formal 
 * Investors want to see proof points because these reduce risk. 
 
 
-## Slide 7: Marketing
+<h3>Slide 7: Marketing</h3>
 
 * Talk about how you plan to get customers’ attention.
 * Show you have a solid grasp of how you will reach your target market and what sales channels you plan on using.
@@ -83,7 +114,7 @@ Now use the SixArm.com six slide pitch deck to expand your ideads into a formal 
 * If your sales and marketing is different than your competitors, then highlight the differences.
 
 
-## Slide 8: Team
+<h3>Slide 8: Team</h3>
 
 * Talk about your team.
 * Why are these the right people to build this company?
@@ -92,7 +123,7 @@ Now use the SixArm.com six slide pitch deck to expand your ideads into a formal 
 * If you don’t have a complete team yet, then identify the key positions that you still need to fill, and also why those positions are critical to company growth.
 
 
-## Slide 9: Financials
+<h3>Slide 9: Financials</h3>
 
 * Show your sales forecast, profit and loss statement, and cash flow forecast for 3 years.
 * Do not show in-depth spreadsheets because these are difficult to read in a presentation format. 
@@ -102,7 +133,7 @@ Now use the SixArm.com six slide pitch deck to expand your ideads into a formal 
 * If you can explain your growth based on traction you already have or compared to similar company in a related industry, that is extremely useful.
 
 
-## Slide 10: Competition
+<h3>Slide 10: Competition</h3>
 
 * Describe how you fit into the competitive landscape.
 * Why will customers choose you?
@@ -111,7 +142,7 @@ Now use the SixArm.com six slide pitch deck to expand your ideads into a formal 
 * Is there any "secret sauce" that you have and others don’t?
 
 
-## Slide 11: Partnerships
+<h3>Slide 11: Partnerships</h3>
 
 * Talk about any strategic partnerships that are critical to success. 
 * For example do you have any key intellectual property licensing partnership?
@@ -119,31 +150,76 @@ Now use the SixArm.com six slide pitch deck to expand your ideads into a formal 
 * How does your success rely on these types of partnerships?
 
 
-## Slide 12: Investment
+<h3>Slide 12: Investment</h3>
 
 * Ask for the money. 
 * Why do you need the amount of money you are requesting?
 * What is your plan for using the money?
 
 
-## Twine.com alternative
+<h2><a name="twine-alertnative">Twine.com 11-slide alternative</a></h2>
 
-Twine.com has shared its pitch deck slide goals. Twine has a supply side and a demand side.
+Twine.com has shared its pitch deck slide goals. 
 
-1. Opportunity – What big market changes are happening? Why is now the time for your startup matters?
-2. Problem - Demand-side – The problem companies have, our demand-side customer.
-3. Problem - Supply-side – The problem creatives have, our supply-side customer.
-4. Solution – How we solve this.
-5. Solution – A bit more detail on our solution.
-6. Stats – Supply-side – giving validation of why we matter.
-7. Stats – Demand-side – our current focus.
-8. Business model – Simply how we will monetize.
-9. Route to market – High-level growth plans, more detail given in the appendix.
-10. Team – Some validation on why we are the team that can pull this off.
-11. Appendix – more specific details on financials, projections, competition and route to market.
+Twine has a supply side and a demand side.
 
 
-## Atrium guide
+<h3>Slide 1: Opportunity</h3>
+
+What big market changes are happening? Why is now the time for your startup matters?
+
+
+<h3>Slide 2: Problem - Demand-side</h3>
+
+The problem companies have, our demand-side customer.
+
+
+<h3>Slide 3: Problem - Supply-side</h3>
+
+The problem creatives have, our supply-side customer.
+
+
+<h3>Slide 4: Solution</h3>
+
+How we solve this.
+
+
+<h3>Slide 5: Solution</h3>
+
+A bit more detail on our solution.
+
+
+<h3>Slide 6: Stats – Supply-side</h3>
+
+Giving validation of why we matter.
+
+
+<h3>Slide 7: Stats – Demand-side</h3>
+
+Our current focus.
+
+
+<h3>Slide 8: Business model</h3>
+
+Simply how we will monetize.
+
+
+<h3>Slide 9: Route to market</h3>
+
+High-level growth plans, more detail given in the appendix.
+
+
+<h3>Slide 10: Team</h3>
+
+Some validation on why we are the team that can pull this off.
+
+
+<h3>Slide 11: Appendix</h3>
+
+More specific details on financials, projections, competition and route to market.
+
+
+<h2><a name="atrium-guide">Atrium guide</a></h2>
 
 See [The Founder’s Guide to Raising a Series A Venture Financing
 by Justin Kan, CEO of Atrium LTS](https://blog.atrium.co/the-founders-guide-to-raising-a-series-a-venture-financing-1de4f5aff312)
@@ -196,7 +272,7 @@ Your pitch deck:
 * Leave out clip art, stock photos, and other random graphics.
 
 
-## YCombinator advice
+<h2><a name="ycombinator-advice">YCombinator advice</a></h2>
 
 Ensure your pitch deck lines up with "The Pocket Guide of Essential YC Advice".
 
@@ -224,13 +300,14 @@ Ensure your pitch deck lines up with "The Pocket Guide of Essential YC Advice".
 * Get sleep and exercise – take care of yourself
 
 
-## Links to more
+<h2><a name="links-to-more">Links to more</a></h2>
 
 * https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/
 * http://www.garage.com/files/PerfectingYourPitch.pdf
 * https://www.twine.fm/blog/pitch-deck-used-to-raise-a-million/
 
-## Thanks
+
+<h2><a name="thanks">Thanks</a></h2>
 
 * Wikipedia
 * MarsDD
