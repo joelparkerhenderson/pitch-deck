@@ -2,9 +2,9 @@
 
 Contents:
 * <a href="#what-is-a-pitch-deck-aka-slide-deck">What is a pitch deck a.k.a. slide deck?</a>
-* <a href="#sixarm-6-slide-pitch-deck">SixArm.com 6-slide pitch deck</a>a>
-* <a href="#formal-12-slide-pitch-deck">Formal 12-slide pitch deck</a>a>
-* <a href="#twine-11-slide-alertnative">Twine.com 11-slide alternative</a></h2>
+* <a href="#sixarm-6-slide-pitch-deck">SixArm.com 6-slide pitch deck</a>
+* <a href="#formal-12-slide-pitch-deck">Formal 12-slide pitch deck</a>
+* <a href="#twine-11-slide-alertnative">Twine.com 11-slide alternative</a>
 * <a href="#atrium-guide">Atrium guide</a>
 * <a href="#ycombinator-advice">YCombinator advice</a>
 * <a href="#links-to-more">Links to more</a>
