@@ -29,32 +29,32 @@ A pitch deck is a business slideshow presentation.
 The SixArm.com pitch deck is a quick start. When you create the pitch deck, you can use it as a start to expand your deck into a formal investor pitch deck (described in the next section).
 
 
-<h3>Slide 1: Vision</h3>
+### Slide 1: Vision
 
 Can you write a simple summary of your idea and it's value to the user?
 
 
-<h3>Slide 2: Reason</h3>
+### Slide 2: Reason
 
 What broad problem are you solving, and what's a specific relatable example?
 
 
-<h3>Slide 3: People</h3>
+### Slide 3: People
 
 Who are you focusing on helping, and how do you reach them?
 
 
-<h3>Slide 4: Context</h3>
+### Slide 4: Context
 
 How does your idea fit among any related ideas, products, services, etc.?
 
 
-<h3>Slide 5: Proof</h3>
+### Slide 5: Proof
 
 How do you demonstrate that your idea is worthwhile to try?
 
 
-<h3>Slide 6: Needs</h3>
+### Slide 6: Needs
 
 What do you need to succeed, such as teammates, partnerships, investments, etc.?
 
@@ -62,21 +62,21 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 ## Formal 12-slide pitch deck
 
 
-<h3>Slide 1: Vision</h3>
+### Slide 1: Vision
 
 * One sentence overview of your business.
 * Emphasize the value that your business provides. 
 * Keep it short and simple. 
 
 
-<h3>Slide 2: Problem</h3>
+### Slide 2: Problem
 
 * Talk about the problem you are solving.
 * Tell a relatable story when you are defining the problem. 
 * The more you can make the problem as real as possible, the more your investors will understand your business and your goals.
 
 
-<h3>Slide 3: Target</h3>
+### Slide 3: Target
 
 * Talk about your ideal users.
 * Who are they?
@@ -87,14 +87,14 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * Why are they your target users?
 
 
-<h3>Slide 4: Solution</h3>
+### Slide 4: Solution
 
 * Describe how customers use your product/service.
 * How does it address the problem that you presented on slide 2?
 * Use pictures and stories when you describe your solution. 
 
 
-<h3>Slide 5: Revenue</h3>
+### Slide 5: Revenue
 
 * What do you charge?
 * Who pays the bills?
@@ -102,7 +102,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * How does your pricing fit into the larger market?
 
 
-<h3>Slide 6: Validation</h3>
+### Slide 6: Validation
 
 * Talk about any proof you have that validates your problem, target, solution, and revenue.
 * What have you achieved, such as milestones or goals?
@@ -110,7 +110,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * Investors want to see proof points because these reduce risk. 
 
 
-<h3>Slide 7: Marketing</h3>
+### Slide 7: Marketing
 
 * Talk about how you plan to get customers’ attention.
 * Show you have a solid grasp of how you will reach your target market and what sales channels you plan on using.
@@ -118,7 +118,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * If your sales and marketing is different than your competitors, then highlight the differences.
 
 
-<h3>Slide 8: Team</h3>
+### Slide 8: Team
 
 * Talk about your team.
 * Why are these the right people to build this company?
@@ -127,7 +127,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * If you don’t have a complete team yet, then identify the key positions that you still need to fill, and also why those positions are critical to company growth.
 
 
-<h3>Slide 9: Financials</h3>
+### Slide 9: Financials
 
 * Show your sales forecast, profit and loss statement, and cash flow forecast for 3 years.
 * Do not show in-depth spreadsheets because these are difficult to read in a presentation format. 
@@ -137,7 +137,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * If you can explain your growth based on traction you already have or compared to similar company in a related industry, that is extremely useful.
 
 
-<h3>Slide 10: Competition</h3>
+### Slide 10: Competition
 
 * Describe how you fit into the competitive landscape.
 * Why will customers choose you?
@@ -146,7 +146,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * Is there any "secret sauce" that you have and others don’t?
 
 
-<h3>Slide 11: Partnerships</h3>
+### Slide 11: Partnerships
 
 * Talk about any strategic partnerships that are critical to success. 
 * For example do you have any key intellectual property licensing partnership?
@@ -154,7 +154,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * How does your success rely on these types of partnerships?
 
 
-<h3>Slide 12: Investment</h3>
+### Slide 12: Investment
 
 * Ask for the money. 
 * Why do you need the amount of money you are requesting?
@@ -168,57 +168,57 @@ Twine.com has shared its pitch deck slide goals.
 Twine has a supply side and a demand side.
 
 
-<h3>Slide 1: Opportunity</h3>
+### Slide 1: Opportunity
 
 What big market changes are happening? Why is now the time for your startup matters?
 
 
-<h3>Slide 2: Problem - Demand-side</h3>
+### Slide 2: Problem - Demand-side
 
 The problem companies have, our demand-side customer.
 
 
-<h3>Slide 3: Problem - Supply-side</h3>
+### Slide 3: Problem - Supply-side
 
 The problem creatives have, our supply-side customer.
 
 
-<h3>Slide 4: Solution</h3>
+### Slide 4: Solution
 
 How we solve this.
 
 
-<h3>Slide 5: Solution - Detail</h3>
+### Slide 5: Solution - Detail
 
 A bit more detail on our solution.
 
 
-<h3>Slide 6: Stats – Supply-side</h3>
+### Slide 6: Stats – Supply-side
 
 Giving validation of why we matter.
 
 
-<h3>Slide 7: Stats – Demand-side</h3>
+### Slide 7: Stats – Demand-side
 
 Our current focus.
 
 
-<h3>Slide 8: Business model</h3>
+### Slide 8: Business model
 
 Simply how we will monetize.
 
 
-<h3>Slide 9: Route to market</h3>
+### Slide 9: Route to market
 
 High-level growth plans, more detail given in the appendix.
 
 
-<h3>Slide 10: Team</h3>
+### Slide 10: Team
 
 Some validation on why we are the team that can pull this off.
 
 
-<h3>Slide 11: Appendix</h3>
+### Slide 11: Appendix
 
 More specific details on financials, projections, competition and route to market.
 
@@ -228,7 +228,7 @@ More specific details on financials, projections, competition and route to marke
 See [The Founder’s Guide to Raising a Series A Venture Financing
 by Justin Kan, CEO of Atrium LTS](https://blog.atrium.co/the-founders-guide-to-raising-a-series-a-venture-financing-1de4f5aff312)
 
-<h3>Start with a compelling narrative</h3>
+### Start with a compelling narrative
 
 I firmly believe that investors invest in (and employees join, and journalists write about) compelling stories. Your pitch deck is really just a vehicle for telling the story you want to tell.
 
@@ -255,14 +255,14 @@ Step 3. The world is now different
   * The future opportunity (or why your traction will continue and make you big!)
 
 
-<h3>How do you know your narrative is good?</h3>
+### How do you know your narrative is good?
 
 * If you have a powerful narrative you should be able to have a conversation with someone who is a novice at your industry and guide them through it, and at the end they should think your company is amazing and probably going to be very successful.
 
 * To refine my narrative I often do exactly this (it doesn’t have to be with potential investors) and use it to iterate the story I am telling (adding or removing specific facts, changing ordering, etc).
 
 
-<h3>Narrative tactics</h3>
+### Narrative tactics
 
 * Your narrative must be concise and accessible. 
 * Leave out anything that doesn’t powerfully support one of your points.
@@ -271,7 +271,7 @@ Step 3. The world is now different
 * You should pitch the biggest vision that you actually believe in. VCs are trying to find multibillion dollar companies. You want to present what you are building as something that is going to be big. However, it has to be a vision you actually believe: if you pitch something that you don’t actually believe will happen just because you think it sounds big, it will be apparent and investors won’t want to back you.
 
 
-<h3>Your pitch deck</h3>
+### Your pitch deck
 
 * Once you believe you have a powerful narrative, you can make a pitch deck. 
 * Your pitch deck should follow the major points of your narrative as we outlined above.
