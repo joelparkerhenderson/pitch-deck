@@ -1,26 +1,30 @@
 # Pitch Deck Quick Start
 
-Contents:
-* <a href="#what-is-a-pitch-deck-aka-slide-deck">What is a pitch deck a.k.a. slide deck?</a>
-* <a href="#sixarm-6-slide-pitch-deck">SixArm.com 6-slide pitch deck</a>
-* <a href="#formal-12-slide-pitch-deck">Formal 12-slide pitch deck</a>
-* <a href="#twine-11-slide-alertnative">Twine.com 11-slide alternative</a>
-* <a href="#atrium-guide">Atrium guide</a>
-* <a href="#ycombinator-advice">YCombinator advice</a>
-* <a href="#links-to-more">Links to more</a>
-* <a href="#thanks">Thanks</a>
+A pitch deck (also known as a slide deck) is a business slideshow presentation, and this page provides a quick start for creating your own pitch deck.
+
+TOC:
+* [What is a pitch deck a.k.a. slide deck?](#what-is-a-pitch-deck-aka-slide-deck)
+* [SixArm.com 6-slide pitch deck](#sixarmcom-6-slide-pitch-deck)
+* [Formal 12-slide pitch deck](#formal-12-slide-pitch-deck)
+* [Twine.com 11-slide alternative](#twinecom-11-slide-alternative)
+* [Atrium guide](#atrium-guide)
+* [YCombinator advice](#ycombinator-advice)
+* [Links to more](#links-to-more)
+* [Thanks](#thanks)
 
 
-<h2><a name="what-is-a-pitch-deck-aka-slide-deck">What is a pitch deck a.k.a. slide deck?</a></h2>
+## What is a pitch deck a.k.a. slide deck?
 
-A pitch deck (also known as a slide deck) is a business slideshow presentation:
+A pitch deck is a business slideshow presentation.
 
-  * Summarizes the business idea and business model of a startup company. 
-  * Often requested by investors prior to a company’s pitch presentation.
-  * A carefully crafted pitch deck is a fundraising fundamental.
+  * It summarizes the business idea of a startup company, 
+    and the business model, team, goals, needs, and more.
+
+  * A carefully crafted pitch deck is a fundraising fundamental, and is 
+    often requested by investors prior to a company’s pitch presentation.
 
 
-<h2><a name="sixarm-6-slide-pitch-deck">SixArm.com 6-slide pitch deck</a></h2>
+## SixArm.com 6-slide pitch deck
 
 The SixArm.com pitch deck is a quick start. When you create the pitch deck, you can use it as a start to expand your deck into a formal investor pitch deck (described in the next section).
 
@@ -55,7 +59,7 @@ How do you demonstrate that your idea is worthwhile to try?
 What do you need to succeed, such as teammates, partnerships, investments, etc.?
 
 
-<h2><a name="formal-12-slide-pitch-deck">Formal 12-slide pitch deck</a></h2>
+## Formal 12-slide pitch deck
 
 
 <h3>Slide 1: Vision</h3>
@@ -157,7 +161,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * What is your plan for using the money?
 
 
-<h2><a name="twine-alertnative">Twine.com 11-slide alternative</a></h2>
+## Twine.com 11-slide alternative
 
 Twine.com has shared its pitch deck slide goals. 
 
@@ -219,7 +223,7 @@ Some validation on why we are the team that can pull this off.
 More specific details on financials, projections, competition and route to market.
 
 
-<h2><a name="atrium-guide">Atrium guide</a></h2>
+## Atrium guide
 
 See [The Founder’s Guide to Raising a Series A Venture Financing
 by Justin Kan, CEO of Atrium LTS](https://blog.atrium.co/the-founders-guide-to-raising-a-series-a-venture-financing-1de4f5aff312)
@@ -275,7 +279,7 @@ Step 3. The world is now different
 * Leave out clip art, stock photos, and other random graphics.
 
 
-<h2><a name="ycombinator-advice">YCombinator advice</a></h2>
+## YCombinator advice
 
 Ensure your pitch deck lines up with "The Pocket Guide of Essential YC Advice".
 
@@ -303,14 +307,14 @@ Ensure your pitch deck lines up with "The Pocket Guide of Essential YC Advice".
 * Get sleep and exercise – take care of yourself
 
 
-<h2><a name="links-to-more">Links to more</a></h2>
+## Links to more
 
 * https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/
 * http://www.garage.com/files/PerfectingYourPitch.pdf
 * https://www.twine.fm/blog/pitch-deck-used-to-raise-a-million/
 
 
-<h2><a name="thanks">Thanks</a></h2>
+## Thanks
 
 * Wikipedia
 * MarsDD
