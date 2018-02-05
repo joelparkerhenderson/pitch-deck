@@ -6,11 +6,13 @@ TOC:
 * [What is a pitch deck a.k.a. slide deck?](#what-is-a-pitch-deck-aka-slide-deck)
 * [SixArm.com 6-slide pitch deck](#sixarmcom-6-slide-pitch-deck)
 * [Formal 12-slide pitch deck](#formal-12-slide-pitch-deck)
-* [Twine.com 11-slide alternative](#twinecom-11-slide-alternative)
-* [Atrium guide](#atrium-guide)
-* [YCombinator advice](#ycombinator-advice)
 * [Links to more](#links-to-more)
 * [Thanks](#thanks)
+
+Pitch deck advice by teams:
+* [Pitch deck advice by Atrium](pitch_deck_advice_by_atrium.md)
+* [Pitch deck advice by YCombinator](pitch_deck_advice_by_ycombinator.md)
+* [Pitch deck advice by Twine](pitch_deck_advice_by_twine.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
@@ -23,10 +25,10 @@ A pitch deck is a business slideshow presentation.
   * A carefully crafted pitch deck is a fundraising fundamental, and is 
     often requested by investors prior to a company’s pitch presentation.
 
-
-## SixArm.com 6-slide pitch deck
-
 The SixArm.com pitch deck is a quick start. When you create the pitch deck, you can use it as a start to expand your deck into a formal investor pitch deck (described in the next section).
+
+
+## SixArm.com pitch deck with 6 slides (informal)
 
 
 ### Slide 1: Vision
@@ -36,7 +38,7 @@ Can you write a simple summary of your idea and it's value to the user?
 
 ### Slide 2: Reason
 
-What broad problem are you solving, and what's a specific relatable example?
+What broad problem are you solving, and what is a specific relatable example?
 
 
 ### Slide 3: People
@@ -59,7 +61,7 @@ How do you demonstrate that your idea is worthwhile to try?
 What do you need to succeed, such as teammates, partnerships, investments, etc.?
 
 
-## Formal 12-slide pitch deck
+## SixArm.com pitch deck with 12 slides (formal)
 
 
 ### Slide 1: Vision
@@ -159,152 +161,6 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * Ask for the money. 
 * Why do you need the amount of money you are requesting?
 * What is your plan for using the money?
-
-
-## Twine.com 11-slide alternative
-
-Twine.com has shared its pitch deck slide goals. 
-
-Twine has a supply side and a demand side.
-
-
-### Slide 1: Opportunity
-
-What big market changes are happening? Why is now the time for your startup matters?
-
-
-### Slide 2: Problem - Demand-side
-
-The problem companies have, our demand-side customer.
-
-
-### Slide 3: Problem - Supply-side
-
-The problem creatives have, our supply-side customer.
-
-
-### Slide 4: Solution
-
-How we solve this.
-
-
-### Slide 5: Solution - Detail
-
-A bit more detail on our solution.
-
-
-### Slide 6: Stats – Supply-side
-
-Giving validation of why we matter.
-
-
-### Slide 7: Stats – Demand-side
-
-Our current focus.
-
-
-### Slide 8: Business model
-
-Simply how we will monetize.
-
-
-### Slide 9: Route to market
-
-High-level growth plans, more detail given in the appendix.
-
-
-### Slide 10: Team
-
-Some validation on why we are the team that can pull this off.
-
-
-### Slide 11: Appendix
-
-More specific details on financials, projections, competition and route to market.
-
-
-## Atrium guide
-
-See [The Founder’s Guide to Raising a Series A Venture Financing
-by Justin Kan, CEO of Atrium LTS](https://blog.atrium.co/the-founders-guide-to-raising-a-series-a-venture-financing-1de4f5aff312)
-
-### Start with a compelling narrative
-
-I firmly believe that investors invest in (and employees join, and journalists write about) compelling stories. Your pitch deck is really just a vehicle for telling the story you want to tell.
-
-Getting the right narrative is the most important part of the pitch process So make sure you spend a lot of time perfecting.
-
-
-<h3>Use this narrative arc</h3
-
-Step 1. The world is a certain way
-
-  * Outline your background and the current state of the market
-  * How you were introduced to the problem, and why you are an expert
-  * The order of magnitude of the problem today (it should be big!)
-
-Step 2. Something changes
-
-  * Your solution to the problem
-  * Why now is the ideal time for it
-
-Step 3. The world is now different
-
-  * How your solution is changing the world
-  * Product traction (especially metrics / milestone focused traction)
-  * The future opportunity (or why your traction will continue and make you big!)
-
-
-### How do you know your narrative is good?
-
-* If you have a powerful narrative you should be able to have a conversation with someone who is a novice at your industry and guide them through it, and at the end they should think your company is amazing and probably going to be very successful.
-
-* To refine my narrative I often do exactly this (it doesn’t have to be with potential investors) and use it to iterate the story I am telling (adding or removing specific facts, changing ordering, etc).
-
-
-### Narrative tactics
-
-* Your narrative must be concise and accessible. 
-* Leave out anything that doesn’t powerfully support one of your points.
-* Many (or most) of the investors you talk to will be less knowledgeable about your industry than you are, so you will have to explain things simply. 
-* You can often do this by walking them through real world examples of the what would happen without your product, and what happens with your product.
-* You should pitch the biggest vision that you actually believe in. VCs are trying to find multibillion dollar companies. You want to present what you are building as something that is going to be big. However, it has to be a vision you actually believe: if you pitch something that you don’t actually believe will happen just because you think it sounds big, it will be apparent and investors won’t want to back you.
-
-
-### Your pitch deck
-
-* Once you believe you have a powerful narrative, you can make a pitch deck. 
-* Your pitch deck should follow the major points of your narrative as we outlined above.
-* Leave all the extraneous details (competitive analysis, deep dives into your P&L, etc) for the appendix because those details aren’t core to telling your narrative, and you will only have to refer to them if an investor is really digging in and asking in depth questions.
-* Leave out clip art, stock photos, and other random graphics.
-
-
-## YCombinator advice
-
-Ensure your pitch deck lines up with "The Pocket Guide of Essential YC Advice".
-
-* Launch now
-* Build something people want
-* Do things that don’t scale
-* Find the 90 / 10 solution
-* Find 10-100 customers who love your product
-* All startups are badly broken at some point
-* Write code – talk to users
-* “It’s not your money”
-* Growth is the result of a great product not the precursor
-* Don’t scale your team/product until you have built something people want
-* Valuation is not equal to success or even probability of success
-* Avoid long negotiated deals with big customers if you can
-* Avoid big company corporate development queries – they will only waste time
-* Avoid conferences unless they are the best way to get customers
-* Pre-product market fit – do things that don’t scale: remain small/nimble
-* Startups can only solve one problem well at any given time
-* Founder relationships matter more than you think
-* Sometimes you need to fire your customers (they might be killing you)
-* Ignore your competitors, you will more likely die of suicide than murder
-* Most companies don’t die because they run out of money
-* Be nice! Or at least don’t be a jerk
-* Get sleep and exercise – take care of yourself
 
 
 ## Links to more
