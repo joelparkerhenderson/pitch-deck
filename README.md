@@ -1,8 +1,17 @@
-# Pitch Deck Quick Start
+<!--
+  * browser: pitch-deck
+  * tracker: f44c30d1b876f8987cf78c727e573542
+  * version: 3.7.0
+  * updated: 2018-02-24T03:07:24Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
+# Pitch Deck
 
 A pitch deck (also known as a slide deck) is a business slideshow presentation, and this page provides a quick start for creating your own pitch deck.
 
-TOC:
+Contents:
 * [What is a pitch deck a.k.a. slide deck?](#what-is-a-pitch-deck-a-k-a-slide-deck-)
 * [SixArm.com pitch deck with 6 slides (informal)](#sixarm-com-pitch-deck-with-6-slides-informal-)
   * [Slide 1: Vision](#slide-1-vision)
