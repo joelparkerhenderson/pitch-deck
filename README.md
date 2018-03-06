@@ -40,6 +40,7 @@ Pitch deck advice by teams:
 * [Pitch deck advice by Atrium](pitch_deck_advice_by_atrium.md)
 * [Pitch deck advice by YCombinator](pitch_deck_advice_by_ycombinator.md)
 * [Pitch deck advice by Twine](pitch_deck_advice_by_twine.md)
+* [Pitch your startup - advice from Stripe](https://stripe.com/atlas/guides/pitching)
 
 
 ## What is a pitch deck a.k.a. slide deck?
@@ -205,3 +206,4 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * Shawn Carolan and Menlo Ventures
 * Fred Wilson and AVC
 * Stuart Logan and Twine
+* Patrick McKenzie and Stripe
