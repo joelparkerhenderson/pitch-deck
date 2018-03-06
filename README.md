@@ -61,7 +61,7 @@ The SixArm.com pitch deck is a quick start. When you create the pitch deck, you 
 
 ### Slide 1: Vision
 
-Can you write a simple summary of your idea and it's value to the user?
+Can you write a simple summary of your idea and its value to the user?
 
 
 ### Slide 2: Reason
