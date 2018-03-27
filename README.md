@@ -196,6 +196,9 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/
 * http://www.garage.com/files/PerfectingYourPitch.pdf
 * https://www.twine.fm/blog/pitch-deck-used-to-raise-a-million/
+* https://bluetieslides.com/anatomy-perfect-startup-pitch-deck-11-critical-pages/
+* https://docs.google.com/presentation/d/17wRgJpjHIyhtgglmn31CPL_O9h2oEdy80uodjd5iaQE/edit#slide=id.p
+* https://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate
 
 
 ## Thanks
