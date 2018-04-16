@@ -174,6 +174,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * How are you different than the competitors and the alternatives?
 * What key advantages do you have over the competition?
 * Is there any "secret sauce" that you have and others don’t?
+* Is there any "moat" for acquisition and/or retention?
 
 
 ### Slide 11: Partnerships
