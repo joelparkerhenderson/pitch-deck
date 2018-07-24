@@ -41,6 +41,7 @@ Pitch deck advice by teams:
 * [Pitch deck advice by YCombinator](pitch_deck_advice_by_ycombinator.md)
 * [Pitch deck advice by Twine](pitch_deck_advice_by_twine.md)
 * [Pitch your startup - advice from Stripe](https://stripe.com/atlas/guides/pitching)
+* [Seven questions by Peter Thiel](seven_questions_by_peter_thiel.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
