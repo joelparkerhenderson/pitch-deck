@@ -7,11 +7,12 @@
   * options: commentable
 -->
 
-# Pitch Deck
+# Pitch deck
 
 A pitch deck (also known as a slide deck) is a business slideshow presentation, and this page provides a quick start for creating your own pitch deck.
 
 Contents:
+
 * [What is a pitch deck a.k.a. slide deck?](#what-is-a-pitch-deck-a-k-a-slide-deck-)
 * [SixArm.com pitch deck with 6 slides (informal)](#sixarm-com-pitch-deck-with-6-slides-informal-)
   * [Slide 1: Vision](#slide-1-vision)
