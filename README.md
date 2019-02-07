@@ -50,6 +50,7 @@ Pitch deck advice by teams:
 * [Crazy but good - by Atrium](crazy_but_good_by_atrium.md)
 * [Disruptive technology shift - by Atrium](disruptive_technology_shift_by_atrium.md)
 * [Unique go-to-market-strategy](disruptive_technology_shift_by_atrium.md)
+* [Market first, team second - by Elad Gil](market_first_by_elad_gil.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
