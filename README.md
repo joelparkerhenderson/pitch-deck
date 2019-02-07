@@ -49,6 +49,7 @@ Pitch deck advice by teams:
 * [Venn diagram of ideas - by Peter Thiel](venn_diagram_by_peter_thiel.md)
 * [Crazy but good - by Atrium](crazy_but_good_by_atrium.md)
 * [Disruptive technology shift - by Atrium](disruptive_technology_shift_by_atrium.md)
+* [Unique go-to-market-strategy](disruptive_technology_shift_by_atrium.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
