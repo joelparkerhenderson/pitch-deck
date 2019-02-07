@@ -52,6 +52,8 @@ Pitch deck advice by teams:
 * [Unique go-to-market-strategy](disruptive_technology_shift_by_atrium.md)
 * [Market first, team second - by Elad Gil](market_first_by_elad_gil.md)
 * [Bold vision - by Atrium](bold_thinking_by_atrium.md)
+* [Understand the small idea and big idea - by Justin Kan](understand_the_small_idea_and_big_idea.md)
+* [Aggregation theory - by Stratechery](aggregation_theory_by_stratechery.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
