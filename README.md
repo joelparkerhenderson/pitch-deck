@@ -1,8 +1,8 @@
 <!--
   * browser: pitch-deck
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 3.7.0
-  * updated: 2018-02-24T03:07:24Z
+  * version: 3.8.0
+  * updated: 2019-02-07
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -54,6 +54,7 @@ Pitch deck advice by teams:
 * [Bold vision - by Atrium](bold_thinking_by_atrium.md)
 * [Understand the small idea and big idea - by Justin Kan](understand_the_small_idea_and_big_idea.md)
 * [Aggregation theory - by Stratechery](aggregation_theory_by_stratechery.md)
+* [Commditization of trust - by Stratechery](commoditization_of_trust_by_stratechery.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
