@@ -46,6 +46,7 @@ Pitch deck advice by teams:
 * [Seven questions by Peter Thiel](seven_questions_by_peter_thiel.md)
 * [Value stack by Floodgate](value_stack_by_floodgate.md)
 * [Asymmeteric laws_by Floodgate](asymetric_laws_by_floodgate.md)
+* [Venn diagram by Peter Thiel](venn_diagram_by_peter_thiel.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
