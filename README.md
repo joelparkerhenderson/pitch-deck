@@ -38,15 +38,16 @@ Contents:
 * [Thanks](#thanks)
 
 Pitch deck advice by teams:
-* [Pitch deck advice by Atrium](pitch_deck_advice_by_atrium.md)
-* [Pitch deck advice by YCombinator](pitch_deck_advice_by_ycombinator.md)
-* [Pitch deck advice by Twine](pitch_deck_advice_by_twine.md)
+* [Pitch deck advice - by Atrium](pitch_deck_advice_by_atrium.md)
+* [Pitch deck advice - by YCombinator](pitch_deck_advice_by_ycombinator.md)
+* [Pitch deck advice - by Twine](pitch_deck_advice_by_twine.md)
 * [Pitch your startup - advice from Stripe](https://stripe.com/atlas/guides/pitching)
-* [Pitch checklist by David Teten](pitch_checklist_by_david_teten.md)
-* [Seven questions by Peter Thiel](seven_questions_by_peter_thiel.md)
-* [Value stack by Floodgate](value_stack_by_floodgate.md)
-* [Asymmeteric laws_by Floodgate](asymetric_laws_by_floodgate.md)
-* [Venn diagram by Peter Thiel](venn_diagram_by_peter_thiel.md)
+* [Pitch checklist - by David Teten](pitch_checklist_by_david_teten.md)
+* [Seven questions - by Peter Thiel](seven_questions_by_peter_thiel.md)
+* [Value stack - by Floodgate](value_stack_by_floodgate.md)
+* [Asymmeteric laws - by Floodgate](asymetric_laws_by_floodgate.md)
+* [Venn diagram of ideas - by Peter Thiel](venn_diagram_by_peter_thiel.md)
+* [Crazy but good - by Atrium](crazy_but_good_by_atrium.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?

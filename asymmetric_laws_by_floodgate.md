@@ -1,4 +1,4 @@
-# Asymmetric laws by Floodgate
+# Asymmetric laws - by Floodgate
 
 See [Dare to make your startup Legendary](https://medium.com/floodgate-fund/dare-to-make-your-startup-legendary-dc8eb68ba1fc)
 

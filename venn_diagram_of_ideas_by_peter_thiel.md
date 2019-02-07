@@ -1,4 +1,4 @@
-# Venn diagram by Peter Thiel
+# Venn diagram of ideas
 
 See [Black Swan Farming](http://www.paulgraham.com/swan.html)
 
