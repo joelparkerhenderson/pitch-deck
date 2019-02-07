@@ -51,6 +51,7 @@ Pitch deck advice by teams:
 * [Disruptive technology shift - by Atrium](disruptive_technology_shift_by_atrium.md)
 * [Unique go-to-market-strategy](disruptive_technology_shift_by_atrium.md)
 * [Market first, team second - by Elad Gil](market_first_by_elad_gil.md)
+* [Bold vision - by Atrium](bold_thinking_by_atrium.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
