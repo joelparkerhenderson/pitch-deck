@@ -25,14 +25,14 @@ At Floodgate, we use a framework called the “value stack” to orient our thin
 **Product Power** is about achieving product/market fit. Product/market fit involves creating a “dance” between the product and the market rather than launching something and iterating. It also involves taking the most powerful and compelling aspects of the product and delivering them in the form of “WTF” level features that are not merely compelling — they rise to the level of changing people’s points of view about what’s even possible and create intense delight in customers.
 
 
-## Company Power
-
-**Company Power** involves implementing the basic types of foundations that allow the company to avoid management and technical debt. These include the creation of hot teams, company culture, and the right meetings and lightweight processes that streamline the company and make everyone execute better and faster.
-
-
 ## Business Model Power
 
 **Business Model Power** involves translating a startup’s innovation into attractive profits that can improve rapidly. A product that is unique and delights customers should always have a set of attractive customers who value the advantages enough to yield increasingly attractive profits as the company reaches critical mass scale. Company power amplifies this by enabling the company to capture the opportunity to do this before larger competitors can co-opt them.
+
+
+## Company Power
+
+**Company Power** involves implementing the basic types of foundations that allow the company to avoid management and technical debt. These include the creation of hot teams, company culture, and the right meetings and lightweight processes that streamline the company and make everyone execute better and faster.
 
 
 ## Category Power
