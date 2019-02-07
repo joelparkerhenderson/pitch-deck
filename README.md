@@ -45,6 +45,7 @@ Pitch deck advice by teams:
 * [Pitch checklist by David Teten](pitch_checklist_by_david_teten.md)
 * [Seven questions by Peter Thiel](seven_questions_by_peter_thiel.md)
 * [Value stack by Floodgate](value_stack_by_floodgate.md)
+* [Asymmeteric laws_by Floodgate](asymetric_laws_by_floodgate.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
