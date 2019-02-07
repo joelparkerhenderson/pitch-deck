@@ -44,16 +44,17 @@ Pitch deck advice by teams:
 * [Pitch your startup - advice from Stripe](https://stripe.com/atlas/guides/pitching)
 * [Pitch checklist by David Teten](pitch_checklist_by_david_teten.md)
 * [Seven questions by Peter Thiel](seven_questions_by_peter_thiel.md)
+* [Value stack by Floodgate](value_stack_by_floodgate.md)
 
 
 ## What is a pitch deck a.k.a. slide deck?
 
 A pitch deck is a business slideshow presentation.
 
-  * It summarizes the business idea of a startup company, 
+  * It summarizes the business idea of a startup company,
     and the business model, team, goals, needs, and more.
 
-  * A carefully crafted pitch deck is a fundraising fundamental, and is 
+  * A carefully crafted pitch deck is a fundraising fundamental, and is
     often requested by investors prior to a company’s pitch presentation.
 
 The SixArm.com pitch deck is a quick start. When you create the pitch deck, you can use it as a start to expand your deck into a formal investor pitch deck (described in the next section).
@@ -98,14 +99,14 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 ### Slide 1: Vision
 
 * One sentence overview of your business.
-* Emphasize the value that your business provides. 
-* Keep it short and simple. 
+* Emphasize the value that your business provides.
+* Keep it short and simple.
 
 
 ### Slide 2: Problem
 
 * Talk about the problem you are solving.
-* Tell a relatable story when you are defining the problem. 
+* Tell a relatable story when you are defining the problem.
 * The more you can make the problem as real as possible, the more your investors will understand your business and your goals.
 
 
@@ -124,7 +125,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 
 * Describe how customers use your product/service.
 * How does it address the problem that you presented on slide 2?
-* Use pictures and stories when you describe your solution. 
+* Use pictures and stories when you describe your solution.
 
 
 ### Slide 5: Revenue
@@ -140,7 +141,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * Talk about any proof you have that validates your problem, target, solution, and revenue.
 * What have you achieved, such as milestones or goals?
 * What are your next steps to validate your plan?
-* Investors want to see proof points because these reduce risk. 
+* Investors want to see proof points because these reduce risk.
 
 
 ### Slide 7: Marketing
@@ -155,7 +156,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 
 * Talk about your team.
 * Why are these the right people to build this company?
-* What experience do you have that others don’t? 
+* What experience do you have that others don’t?
 * Highlight the key team members, their previous accomplishments, and key expertise they bring to the table.
 * If you don’t have a complete team yet, then identify the key positions that you still need to fill, and also why those positions are critical to company growth.
 
@@ -163,10 +164,10 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 ### Slide 9: Financials
 
 * Show your sales forecast, profit and loss statement, and cash flow forecast for 3 years.
-* Do not show in-depth spreadsheets because these are difficult to read in a presentation format. 
+* Do not show in-depth spreadsheets because these are difficult to read in a presentation format.
 * Limit yourself to charts that show sales, total customers, total expenses, and profits.
 * Prepare to discuss any underlying assumptions that you’ve made to arrive at your sales goals and what your key expense drivers are.
-* Be realistic. 
+* Be realistic.
 * If you can explain your growth based on traction you already have or compared to similar company in a related industry, that is extremely useful.
 
 
@@ -183,7 +184,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 
 ### Slide 11: Partnerships
 
-* Talk about any strategic partnerships that are critical to success. 
+* Talk about any strategic partnerships that are critical to success.
 * For example do you have any key intellectual property licensing partnership?
 * Do you have any key distribution partnerships?
 * How does your success rely on these types of partnerships?
@@ -191,7 +192,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 
 ### Slide 12: Investment
 
-* Ask for the money. 
+* Ask for the money.
 * Why do you need the amount of money you are requesting?
 * What is your plan for using the money?
 
