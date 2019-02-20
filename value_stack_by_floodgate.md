@@ -22,7 +22,7 @@ At Floodgate, we use a framework called the “value stack” to orient our thin
 
 ## Product Power
 
-**Product Power** is about achieving product/market fit. Product/market fit involves creating a “dance” between the product and the market rather than launching something and iterating. It also involves taking the most powerful and compelling aspects of the product and delivering them in the form of “WTF” level features that are not merely compelling — they rise to the level of changing people’s points of view about what’s even possible and create intense delight in customers.
+**Product Power** is about achieving product/market fit. Product/market fit involves creating a “dance” between the product and the market rather than launching something and iterating. It also involves taking the most powerful and compelling aspects of the product and delivering them in the form of “WTF” level features that are not merely compelling — they rise to the level of changing people’s points of view about what’s even possible and create intense delight in customers.
 
 
 ## Business Model Power
