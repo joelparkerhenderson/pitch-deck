@@ -118,7 +118,7 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 
 * Talk about the problem you are solving.
 * Tell a relatable story when you are defining the problem.
-* The more you can make the problem as real as possible, the more your investors will understand your business and your goals.
+* The more you make the problem as real as possible, the more your investors will understand.
 
 
 ### Slide 3: Target
@@ -158,8 +158,8 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 ### Slide 7: Marketing
 
 * Talk about how you plan to get customers’ attention.
-* Show you have a solid grasp of how you will reach your target market and what sales channels you plan on using.
-* Investors know finding and winning customers can sometimes be the biggest challenge for a startup.
+* Show a solid grasp of how to reach your target market and what sales channels to use.
+* Investors know finding and winning customers can be the biggest challenge for a startup.
 * If your sales and marketing is different than your competitors, then highlight the differences.
 
 
@@ -168,8 +168,8 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * Talk about your team.
 * Why are these the right people to build this company?
 * What experience do you have that others don’t?
-* Highlight the key team members, their previous accomplishments, and key expertise they bring to the table.
-* If you don’t have a complete team yet, then identify the key positions that you still need to fill, and also why those positions are critical to company growth.
+* Highlight the key team members, their previous accomplishments, and key expertise they bring.
+* Identify key positions you need to fill, and why they are critical to company growth.
 
 
 ### Slide 9: Financials
@@ -177,9 +177,11 @@ What do you need to succeed, such as teammates, partnerships, investments, etc.?
 * Show your sales forecast, profit and loss statement, and cash flow forecast for 3 years.
 * Do not show in-depth spreadsheets because these are difficult to read in a presentation format.
 * Limit yourself to charts that show sales, total customers, total expenses, and profits.
-* Prepare to discuss any underlying assumptions that you’ve made to arrive at your sales goals and what your key expense drivers are.
+* Try to explain your growth based on traction you already have.
+* Highlight what your key expense drivers are.
+* Prepare to discuss any underlying assumptions that you’ve made.
+* Prepare comparisons of similar companies in related industries.
 * Be realistic.
-* If you can explain your growth based on traction you already have or compared to similar company in a related industry, that is extremely useful.
 
 
 ### Slide 10: Competition
