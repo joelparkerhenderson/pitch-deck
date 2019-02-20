@@ -1,6 +1,6 @@
 # Venn diagram of ideas
 
-See [Black Swan Farming](http://www.paulgraham.com/swan.html)
+Link: [Black Swan Farming](http://www.paulgraham.com/swan.html)
 
 The first time Peter Thiel spoke at YC he drew a Venn diagram that illustrates the situation perfectly. He drew two intersecting circles, one labelled "seems like a bad idea" and the other "is a good idea." The intersection is the sweet spot for startups.
 

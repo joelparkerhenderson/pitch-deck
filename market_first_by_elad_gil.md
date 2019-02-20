@@ -1,6 +1,6 @@
 # Market first, team second
 
-See [Future Founders, Here’s How to Spot and Build in Nonobvious Markets](https://firstround.com/review/future-founders-heres-how-to-spot-and-build-in-nonobvious-markets/)
+Link: [Future Founders, Here’s How to Spot and Build in Nonobvious Markets](https://firstround.com/review/future-founders-heres-how-to-spot-and-build-in-nonobvious-markets/)
 
 As a general rule, when I make investments, it’s market first and the strength of the team second, which is quite different from a lot of other angel investors who are more founder-driven
 

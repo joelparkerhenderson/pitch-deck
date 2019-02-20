@@ -1,6 +1,6 @@
 # Value Stack by Floodgate
 
-See [Dare to make your startup Legendary](https://medium.com/floodgate-fund/dare-to-make-your-startup-legendary-dc8eb68ba1fc)
+Link: [Dare to make your startup Legendary](https://medium.com/floodgate-fund/dare-to-make-your-startup-legendary-dc8eb68ba1fc)
 
 At Floodgate, we use a framework called the “value stack” to orient our thinking around startup exceptionalism. We look at the value stack as a hierarchy of powers. Each of these is powerful on its own, but as these advantages are layered on top of each other they reinforce and amplify each other even further.
 

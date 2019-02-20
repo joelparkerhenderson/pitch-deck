@@ -1,6 +1,6 @@
 # Disruptive technology shift
 
-See [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
+Link: [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
 
 “There are very disruptive technology shifts that occur from time to time and a small number of companies ride the wave created by these shifts. Through a combination of luck, skill, and timing, they produce huge outcomes that were just meant to be.” – Mike Maples (an early investor in Twitter, Okta, and Twitch)
 

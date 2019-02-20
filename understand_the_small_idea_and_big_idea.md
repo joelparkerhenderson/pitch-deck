@@ -1,6 +1,6 @@
 # Understand the small idea and big idea
 
-See [Founder’s Guide to the Y Combinator Interview](https://www.atrium.co/blog/yc-interview-guide/)
+Link: [Founder’s Guide to the Y Combinator Interview](https://www.atrium.co/blog/yc-interview-guide/)
 
 Startups have two major growth stages: zero-to-one then one-to-many. Mastering each requires an understanding of the "small idea" and "big idea".
 

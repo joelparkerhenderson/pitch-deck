@@ -1,6 +1,6 @@
 # Aggregation theory
 
-See [Aggregation theory](https://stratechery.com/2015/aggregation-theory/)
+Link: [Aggregation theory](https://stratechery.com/2015/aggregation-theory/)
 
 The value chain for any given consumer market is divided into three parts: suppliers, distributors, and consumers/users. The best way to make outsize profits in any of these markets is to either gain a horizontal monopoly in one of the three parts or to integrate two of the parts such that you have a competitive advantage in delivering a vertical solution.
 

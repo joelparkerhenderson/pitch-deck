@@ -1,6 +1,6 @@
 # Pitch checklist by David Teten
 
-See [Don't Pitch A Venture Capitalist Without This Checklist](https://www.forbes.com/sites/davidteten/2015/02/11/dont-pitch-a-venture-capitalist-without-this-checklist/#58868c935d53)
+Link: [Don't Pitch A Venture Capitalist Without This Checklist](https://www.forbes.com/sites/davidteten/2015/02/11/dont-pitch-a-venture-capitalist-without-this-checklist/#58868c935d53)
 
 I’m surprised at how many funding pitches I get which lack some of the basic information which investors require before funding.  I think this stems from two causes:
 

@@ -1,6 +1,6 @@
 # Pitch deck advice by Atrium.co
 
-See [The Founder’s Guide to Raising a Series A Venture Financing
+Link: [The Founder’s Guide to Raising a Series A Venture Financing
 by Justin Kan, CEO of Atrium LTS](https://blog.atrium.co/the-founders-guide-to-raising-a-series-a-venture-financing-1de4f5aff312)
 
 

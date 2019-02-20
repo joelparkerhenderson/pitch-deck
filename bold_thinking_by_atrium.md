@@ -1,6 +1,6 @@
 # Bold vision
 
-See [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
+Link: [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
 
 “The #1 thing we look for in an entrepreneur is courage… The difference between a vision and a hallucination is that it’s called a vision when other people can see it.” – Ben Horowitz
 

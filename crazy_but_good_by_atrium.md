@@ -1,6 +1,6 @@
 # Crazy but good
 
-See [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
+Link: [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
 
 Marc Andreessen says “Most of the big breakthrough technologies/companies seem crazy at first: PCs, the internet, Bitcoin, Airbnb, Uber, 140 characters…you are investing in things that look like they are just nuts…it has to be something where, when people look at it, at first they say, ‘I don’t get it, I don’t understand it. I think it’s too weird, I think it’s too unusual.”
 

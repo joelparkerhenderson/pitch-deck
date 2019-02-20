@@ -1,6 +1,6 @@
 # Unique go-to-market strategy
 
-See [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
+Link: [The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
 
 “Having a great product is important, but having great product distribution is more important… What a lot of people fail to realize is that without great distribution, the product dies.” – Reid Hoffman (founder of LinkedIn, early investor in Facebook, Airbnb, and Zynga)
 
