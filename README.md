@@ -86,7 +86,7 @@ What broad problem are you solving, and what is a specific relatable example?
 
 ### Slide 3: People
 
-Who are you focusing on helping, and how do you reach them?
+Who are you focusing on helping, how do you reach them, and at what costs?
 
 
 ### Slide 4: Context
@@ -96,12 +96,12 @@ How does your idea fit among any related ideas, products, services, etc.?
 
 ### Slide 5: Proof
 
-How do you demonstrate that your idea is worthwhile to try?
+How do you demonstrate that your idea is worthwhile to try, and to buy?
 
 
 ### Slide 6: Needs
 
-What do you need to succeed, such as teammates, partnerships, investments, etc.?
+What do you need to succeed, such as teammates, partners, investors, etc.?
 
 
 ## SixArm.com pitch deck with 12 slides (formal)
