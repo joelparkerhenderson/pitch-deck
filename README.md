@@ -150,7 +150,7 @@ What do you need to succeed, such as teammates, partners, investors, etc.?
 ### Slide 6: Validation
 
 * Talk about any proof you have that validates your problem, target, solution, and revenue.
-* What have you achieved, such as milestones or goals?
+* What have you achieved, such as milestones, metrics, and goals?
 * What are your next steps to validate your plan?
 * Investors want to see proof points because these reduce risk.
 
