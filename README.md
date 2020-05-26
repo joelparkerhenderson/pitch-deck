@@ -220,6 +220,7 @@ What do you need to succeed, such as teammates, partners, investors, etc.?
 * https://docs.google.com/presentation/d/17wRgJpjHIyhtgglmn31CPL_O9h2oEdy80uodjd5iaQE/edit#slide=id.p
 * https://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate
 * [Get Startup Funding - a collection of pitch decks](https://www.chagency.co.uk/getstartupfunding)
+* [600+ decks from the world's best startups](https://starthouse.xyz/)
 
 
 ## Thanks
