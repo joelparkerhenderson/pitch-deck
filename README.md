@@ -42,6 +42,7 @@ Pitch deck advice by teams:
 * [Pitch deck advice - by YCombinator](pitch_deck_advice_by_ycombinator.md)
 * [Pitch deck advice - by Twine](pitch_deck_advice_by_twine.md)
 * [Pitch deck advice - by Unusual Ventures](pitch_deck_advice_by_unusual_ventures.md)
+* [Pitch deck advice - by Guy Kawasaki](pitch_deck_advice_by_guy_kawasaki.md)
 * [Pitch your startup - advice from Stripe](https://stripe.com/atlas/guides/pitching)
 * [Pitch checklist - by David Teten](pitch_checklist_by_david_teten.md)
 * [Seven questions - by Peter Thiel](seven_questions_by_peter_thiel.md)
