@@ -1,39 +1,36 @@
 <!--
   * browser: pitch-deck
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 3.8.0
-  * updated: 2019-02-07
+  * version: 4.0.0
+  * updated: 2021-09-11
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
 
 # Pitch deck
 
-A pitch deck (also known as a slide deck) is a business slideshow presentation, and this page provides a quick start for creating your own pitch deck.
+A pitch deck (also known as a slide deck) is a business slideshow presentation. This page provides a pitch deck quick start, to help you create your own pitch deck.
 
 Contents:
 
-* [What is a pitch deck a.k.a. slide deck?](#what-is-a-pitch-deck-a-k-a-slide-deck-)
-* [SixArm.com pitch deck with 6 slides (informal)](#sixarm-com-pitch-deck-with-6-slides-informal-)
-  * [Slide 1: Vision](#slide-1-vision)
-  * [Slide 2: Reason](#slide-2-reason)
-  * [Slide 3: People](#slide-3-people)
-  * [Slide 4: Context](#slide-4-context)
-  * [Slide 5: Proof](#slide-5-proof)
-  * [Slide 6: Needs](#slide-6-needs)
-* [SixArm.com pitch deck with 12 slides (formal)](#sixarm-com-pitch-deck-with-12-slides-formal-)
-  * [Slide 1: Vision](#slide-1-vision)
-  * [Slide 2: Problem](#slide-2-problem)
-  * [Slide 3: Target](#slide-3-target)
-  * [Slide 4: Solution](#slide-4-solution)
-  * [Slide 5: Revenue](#slide-5-revenue)
-  * [Slide 6: Validation](#slide-6-validation)
-  * [Slide 7: Marketing](#slide-7-marketing)
-  * [Slide 8: Team](#slide-8-team)
-  * [Slide 9: Financials](#slide-9-financials)
-  * [Slide 10: Competition](#slide-10-competition)
-  * [Slide 11: Partnerships](#slide-11-partnerships)
-  * [Slide 12: Investment](#slide-12-investment)
+* [What is a pitch deck a.k.a. slide deck?](#what-is-a-pitch-deck-a-k-a-slide-deck)
+* [SixArm® pitch deck 1: six slides to highlight your concept](#sixarm-pitch-deck-1-six-slides-to-highlight-your-concept)
+  * [Problem Slide](#problem-slide)
+  * [Market Slide](#market-slide)
+  * [Solution Slide](#solution-slide)
+  * [Competition Slide](#competition-slide)
+  * [Validation Slide](#validation-slide)
+  * [Roadmap Slide](#roadmap-slide)
+* [SixArm® pitch deck 2: six slides to highlight your business](#sixarm-pitch-deck-2-six-slides-to-highlight-your-business)
+  * [Team Slide](#team-slide)
+  * [Sales Slide](#sales-slide)
+  * [Marketing Slide](#marketing-slide)
+  * [Partner Slide](#partner-slide)
+  * [Financial Slide](#financial-slide)
+  * [Investment Slide](#investment-slide)
+* [How to improve your pitch](#how-to-improve-your-pitch)
+  * [Tip improvements](#tip-improvements)
+  * [Bonus improvements](#bonus-improvements)
 * [Links to more](#links-to-more)
 * [Thanks](#thanks)
 
@@ -73,140 +70,223 @@ A pitch deck is a business slideshow presentation.
 The SixArm.com pitch deck is a quick start. When you create the pitch deck, you can use it as a start to expand your deck into a formal investor pitch deck (described in the next section).
 
 
-## SixArm.com pitch deck
+## SixArm® pitch deck 1: six slides to highlight your concept
 
 
-### Slide 1: Vision
+### Problem Slide
 
-Can you write a simple summary of your idea and its value?
+* What is the problem, such as the pain point or chief complaint? 
 
-* Open with one sentence, short and simple.
-* What broad problem are you solving?
-* What is a specific relatable example?
-* Tip: The more you make the problem as real as possible, the more your audience will understand.
-* Tip: Emphasize the value that you provide to your user.
+* What is a relatable example, such as one person's typical story?
 
+* Tip: Cover the basics of who, what, where, when, how, why.
 
-### Slide 2: People
-
-Who are you focusing on helping, and how do you reach them?
-
-* Who are your target users, and why are they your target?
-* What do they need, when, and why?
-* Who are they, where are they, and how many are there? 
-* How do you reach them, and how 
+* Bonus: Show why the problem is especially relevant right now.
 
 
-### Slide 3: Solution
+### Market Slide
 
-* Describe how people use your product/service.
-* How does it address the problem that you presented on slide 2?
-* Tip: Use pictures and stories when you describe your solution.
+* How big is the problem, such as in terms of people, time, money, etc.?
 
+* When someone has the problem, how do they know and what do they do?
 
-### Slide 4: Context
+* Tip: Focus on a small tight group of people that you can reach ASAP.
 
-How does your idea compare to related ideas, products, services, etc.?
-
-* Describe how you fit into the competitive landscape.
-* Why will users choose you over the alternatives?
-* Is there any secret sauce that you have that others don’t?
-* Is there any network effect that increases the value and/or platform?
-* Is there any viral effect that increases the reach and/or participation?
-* Is there any protective moat for acquisition and/or retention?
+* Bonus: Show why your market will grow larger, and how you know it.
 
 
-### Slide 5: Validation
+### Solution Slide
 
-How do you demonstrate that your idea is worthwhile to try, and to buy?
+* What is your solution to the problem? This is your offering.
 
-* Talk about any proof you have that validates your problem, target, solution, and revenue.
-* What have you achieved, such as milestones, metrics, and goals?
-* What are your next steps to validate your plan?
-* Tip: Investors like to see validation proof points because these reduce risk.
+* How does your relatable example change when a person uses your offering?
 
+* Tip: Focus on the benefits by using the person's perspective, not yours.
 
-### Slide 6: Success Factors
-
-What do you need to succeed?
-
-* Highlight any important open roles for new teammates.
-* Describe key partners, stakeholders, vendors, 
-* investors, etc.?
+* Bonus: Show social proof such as a real user photo and real testimonial.
 
 
-## SixArm.com pitch deck additional slides for investment
+### Competition Slide
+
+* How does your offering compare to other offerings and substitutes?
+
+* How do you reach people and convince them your offering is better?
+
+* Tip: What special advantages do you have now that competitors don’t?
+
+* Bonus: How are you creating sustainable advantages versus competitors?
 
 
-### Slide 1: Team
+### Validation Slide
+
+* How are you proving your view of the problem, market, and solution?
+
+* When you interact with potential users, what are they actually saying?
+
+* Tip: Focus on measurements and quotations that lead to product-market fit.
+
+* Bonus: How are you doing on the metrics that matter most for your market?
+
+
+### Roadmap Slide
+
+* What is your current state and future state, such as milestones and plans?
+
+* What do you need for success, such as people, processes, materials, money?
+
+* Tip: Focus on near-term realistic steps, and how you are achieving them.
+
+* Bonus: Work on these by using
+ [SBS](https://github.com/joelparkerhenderson/strategic-balanced-scorecard),
+ [BMC](https://github.com/joelparkerhenderson/business-model-canvas),
+ [OKRs](https://github.com/joelparkerhenderson/objectives-and-key-results),
+ [KPIs](https://github.com/joelparkerhenderson/key-performance-indicator),
+ and [SMARTs](https://github.com/joelparkerhenderson/smart-criteria).
+
+
+## SixArm® pitch deck 2: six slides to highlight your business
+
+
+### Team Slide
 
 * Talk about your team.
+
 * Highlight key team members, their previous accomplishments, and key expertise they bring.
+
 * Why are these the right people to build this company?
+
 * What experience do you all have that others don’t?
+
 * Include key advisors, investors, and board members. 
+
 * Identify key positions you need to fill, and why they are critical to company growth.
 
 
-### Slide 2: Sales
+### Sales Slide
 
-* Talk about how you plan to sell.
+* Talk about how you sell.
+
 * What do you charge?
+
 * Who pays the bills?
+
+* What is the purchasing process for your target customers?
+
 * Describe the competitive landscape.
+
 * How does your pricing fit into the larger market?
+
 * Show any validiation.
 
 
-### Slide 3: Marketing
+### Marketing Slide
 
-* Talk about how you plan to get customers’ attention.
+* Talk about how you gain customers’ attention.
+
 * Show a solid grasp of how to reach your target market, and what channels to use.
+
 * Investors know finding and winning customers can be the biggest challenge for a startup.
+
 * If your plan is different than your competitors, then highlight the differences.
+
 * Highlight validiation, comps, and upcoming experiments.
+
 * Prepare to discuss Total Addressable Market, Service Addressable Market, Service Obtainable Market.
+
 * Prepare for questions about viral marketing, social media marketing, and guerrilla marketing.
 
 
-### Slide 4: Partnerships
+### Partner Slide
 
-* Talk about any strategic partnerships that are critical to success.
-* For example do you have any key intellectual property licensing partnership?
+* Talk about any strategic partnerships that are important to success.
+
+* For example do you have any key intellectual property licensing partnership, such as for patents, trademarks, data, etc.?
+
 * Do you have any key distribution partnerships?
+
 * How does your success rely on these types of partnerships?
 
 
-### Slide 5: Financials
+### Financial Slide
+
+* Talk about your financials.
 
 * Show your realistic sales forecast, profit and loss forecast, and cash flow forecast for 3 years.
+
 * Limit yourself to charts that show sales, total customers, total expenses, and profits.
+
 * Do not show in-depth spreadsheets because these are difficult to read in a presentation format.
+
 * Try to explain your growth based on traction you already have.
+
 * Highlight your key expense drivers.
+
 * Prepare comparisons of similar companies in related industries.
+
 * Prepare to discuss any underlying assumptions that you’ve made.
 
 
-### Slide 6: Investment
+### Investment Slide
 
 * Ask for the money.
+
 * Why do you need the amount of money you are requesting?
+
 * What is your plan for using the money?
+
 * Is there participation by others that you want to share?
+
 * Prepare comparisons of similar companies in related industries.
+
 * Prepare to discuss terms that you offering and/or requiring.
+
 * Prepare to provide your capitalization table or similar equity statement.
+
+
+## How to improve your pitch
+
+
+### Tip improvements
+
+* Tip: Are you clear? Make your writing short and simple.
+
+* Tip: Are you compelling? Tell real user stories with emotion.
+
+* Tip: Are you comparable? Provide context to help people understand.
+
+* Tip: Are you realistic? Show your evidence, validations, and references.
+
+
+### Bonus improvements
+
+* Bonus: Any synergies as more people participate? A.k.a. network effects.
+
+* Bonus: Any encouragements for people to tell others? A.k.a. viral effects.
+
+* Bonus: Any feedback loops that will accelerate scaling? A.k.a. flywheels.
+
+* Bonus: Any protections on user acquisition and/or retention? A.k.a. moats.
+
+
+### Preparation improvements
+
+* [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic-balanced-scorecard)
+
+* [Objectives and Key Results (OKR)](https://github.com/joelparkerhenderson/objectives-and-key-results) 
+
+* [Business Model Canvas (BMC)](https://github.com/joelparkerhenderson/business-model-canvas)
+
+* [SMART criteria for goals, objectives, plans, tasks](https://github.com/joelparkerhenderson/smart-criteria)
 
 
 ## Links to more
 
-* https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/
-* http://www.garage.com/files/PerfectingYourPitch.pdf
-* https://www.twine.fm/blog/pitch-deck-used-to-raise-a-million/
-* https://bluetieslides.com/anatomy-perfect-startup-pitch-deck-11-critical-pages/
-* https://docs.google.com/presentation/d/17wRgJpjHIyhtgglmn31CPL_O9h2oEdy80uodjd5iaQE/edit#slide=id.p
-* https://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate
+* [How to create a pitch deck for investors](https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/)
+* [Perfecting your pitch](http://www.garage.com/files/PerfectingYourPitch.pdf)
+* [Pitch deck used to raise a million](https://www.twine.fm/blog/pitch-deck-used-to-raise-a-million/)
+* [Anatomy of a perfect pitch deck](https://bluetieslides.com/anatomy-perfect-startup-pitch-deck-11-critical-pages/)
+* [Pitch deck template for startups - Google Doc](https://docs.google.com/presentation/d/17wRgJpjHIyhtgglmn31CPL_O9h2oEdy80uodjd5iaQE/edit#slide=id.p)
+* [Sequoia Capital pitch deck template](https://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate)
 * [Get Startup Funding - a collection of pitch decks](https://www.chagency.co.uk/getstartupfunding)
 * [600+ decks from the world's best startups](https://starthouse.xyz/)
 
