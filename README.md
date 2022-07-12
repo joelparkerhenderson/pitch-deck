@@ -1,8 +1,8 @@
 <!--
   * browser: pitch-deck
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 4.0.0
-  * updated: 2021-09-11
+  * version: 4.1.0
+  * updated: 2022-07-12T19:28:44Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -14,6 +14,8 @@ A pitch deck is a business slideshow presentation:
 * A pitch deck summarizes a project and purpose, such as summarizing a startup and product.
 
 * A pitch deck is a fundraising fundamental, and is often requested by potential investors and advisors.
+
+* A pitch deck can help recruit cofounders, teammates, strategic partners, and strategic customers.
 
 
 ## Pitch deck templates
