@@ -20,7 +20,7 @@ A pitch deck is a business slideshow presentation:
 
 ## Pitch deck templates
 
-* [SixArm® pitch deck template](pitch-deck-advice-by-atrium/index.md)
+* [SixArm® pitch deck template](https://github.com/sixarm/pitch-deck-template)
 * [Sequoia Capital pitch deck template](https://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate)
 * [Pitch deck template for startups as Google Slides](https://docs.google.com/presentation/d/17wRgJpjHIyhtgglmn31CPL_O9h2oEdy80uodjd5iaQE/edit#slide=id.p)
 
