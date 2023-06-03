@@ -40,6 +40,7 @@ A pitch deck is a business slideshow presentation:
 * [Pitch deck advice - by Twine](pitch-deck-advice-by-twine/index.md)
 * [Pitch deck advice - by Unusual Ventures](pitch-deck-advice-by-unusual-ventures/index.md)
 * [Pitch deck advice - by Guy Kawasaki](pitch-deck-advice-by-guy-kawasaki/index.md)
+* [Pitch deck guide - by Inner Circle](pitch-deck-guide-by-inner-circle/index.md)
 * [Pitch your startup - advice from Stripe](https://stripe.com/atlas/guides/pitching)
 * [Pitch checklist - by David Teten](pitch-checklist-by-david-teten/index.md)
 * [Seven questions - by Peter Thiel](seven-questions-by-peter-thiel/index.md)
