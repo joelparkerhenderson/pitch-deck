@@ -30,7 +30,7 @@ A pitch deck is a business slideshow presentation:
 * [Pitch deck used to raise a million](https://www.twine.fm/blog/pitch-deck-used-to-raise-a-million/)
 * [Get Startup Funding - a collection of pitch decks](https://www.chagency.co.uk/getstartupfunding)
 * [600+ decks from the world's best startups](https://starthouse.xyz/)
-* [Search The Deck - search inside 15,000+ pitch deck slides](https://www.searchthedeck.com/)
+* [Search The Deck - search inside 15,000+ pitch deck slides](https://searchthedeck.com/)
 
 
 ## Pitch deck advice by industry leaders
